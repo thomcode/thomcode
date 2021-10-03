@@ -8,7 +8,6 @@
   <img align="center" alt="thomcode-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="thomcode-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 
-  <img align="left" alt="thomcode-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/861722461740859422/893576358574313542/unknown.png?width=676&height=676">
 </div>
 
   <hr>
