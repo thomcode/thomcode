@@ -21,13 +21,13 @@
   <a href="https://www.linkedin.com/in/thomassimeao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 <br><br>
-
+ <div class="center">
   <a href="https://github.com/thomcode">
-    
+   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thomcode&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomcode&layout=compact&langs_count=7&theme=merko"/>  </a> 
 
-  
+   </div>
 <img src="https://github.com/thomcode/thomcode/blob/main/Anima%C3%A7%C3%A3o.gif" width="100%" height="100%" />
 
  
