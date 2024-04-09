@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="90%" src="./assets/img/thomas_banner.gif" /></a></p>
+<p align="center"><a href="[https://anuraghazra.github.io](https://github.com/thomcode)"><img width="90%" src="./assets/img/thomas_banner.gif" /></a></p>
 <p align="center">
     <img align="center" alt="thomcode-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="thomcode-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
